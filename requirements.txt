@@ -26,6 +26,7 @@ distro-info===0.23ubuntu1
 dj-database-url==0.5.0
 Django==3.2.8
 django-allauth==0.41.0
+django-countries==7.2.1
 django-crispy-forms==1.13.0
 dnspython==1.16.0
 entrypoints==0.3
@@ -116,6 +117,7 @@ six==1.14.0
 sos==4.1
 sqlparse==0.4.2
 ssh-import-id==5.10
+stripe==2.63.0
 systemd-python==234
 toml==0.10.2
 tomli==1.2.1
