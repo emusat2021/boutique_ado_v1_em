@@ -11,3 +11,4 @@ node_modules/
 __pycache__
 .envrc
 private_config.py
+private_email_confimation.py
