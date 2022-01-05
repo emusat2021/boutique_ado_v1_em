@@ -30,7 +30,7 @@ try:
     from . import private_config
     ALLOWED_HOSTS = private_config.ALLOWED_HOSTS
 except Exception:
-    ALLOWED_HOSTS = []
+    ALLOWED_HOSTS = ["boutique-ado-v1-em.herokuapp.com"]
 
 
 # Application definition
